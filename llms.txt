@@ -1,0 +1,73 @@
+# ONINO
+
+> ONINO is a white-label tokenized financing infrastructure that enables businesses to structure, operate, and monetize digital financing solutions with optional tokenization across the EU and Switzerland.
+
+## About
+
+ONINO GmbH is a fintech company headquartered in Karlsruhe, Germany. The company provides a compliant, modular platform for issuing regulated digital securities, onboarding investors, automating compliance (KYC/AML), and managing the full asset lifecycle. ONINO is not a crowdfunding platform — it is the technology and compliance layer that powers financing platforms.
+
+## Products
+
+- **Whitelabel Platform**: Launch a fully branded tokenized financing platform under your own domain. Includes deal structuring, investor management, compliance automation, and regulatory reporting.
+- **ONINO Platform**: Operate tokenized financing directly on ONINO's managed infrastructure with faster time to launch and minimal setup.
+- **Single Issuance**: Run a single compliant financing round on your own website without needing a license.
+
+## Target Audience
+
+ONINO serves asset managers, banks, financial institutions, investment clubs, cooperatives, and platform operators who need compliant infrastructure for digital financing.
+
+## Industries Served
+
+- Real Estate
+- Private Equity
+- Renewable Energy / ESG
+- Banking and Financial Services
+
+## Regulatory Frameworks
+
+ONINO supports financing structures compliant with:
+- BaFin (German Federal Financial Supervisory Authority)
+- ECSPR (European Crowdfunding Service Provider Regulation)
+- MiCA (Markets in Crypto-Assets Regulation)
+- GDPR-compliant data handling
+
+## Jurisdictions
+
+Active in 24+ countries including all EU member states and Switzerland.
+
+## Financial Instruments Supported
+
+- Subordinated loans (Nachrangdarlehen)
+- Participation rights (Genussrechte)
+- Equity tokens
+- Bonds
+- Custom financial products
+
+## Key Capabilities
+
+- White-label setup in under 24 hours
+- Automated KYC/AML and investor eligibility screening
+- Multi-jurisdiction regulatory workflows
+- Deal structuring and parallel deal management
+- End-to-end investor lifecycle management
+- Optional tokenization layer for secondary market readiness
+- $35M+ already tokenized on the platform
+
+## Company Details
+
+- **Legal Name**: ONINO GmbH
+- **Address**: Alter Schlachthof 33, 76131 Karlsruhe, Germany
+- **Managing Directors**: Alexandre Lehr, Kai Firschau, Lukas Wipf
+- **Commercial Register**: HRB 743846, Amtsgericht Mannheim
+- **VAT ID**: DE352744524
+
+## Links
+
+- Website: https://onino.io
+- Products: https://onino.io/product
+- Whitelabel: https://onino.io/product/whitelabel
+- Blog: https://onino.io/blog
+- Book a Demo: https://onino.io/book-a-demo
+- LinkedIn: https://www.linkedin.com/company/onino-io
+- Twitter/X: https://twitter.com/onino_io
+- Documentation: https://docs.onino.io
